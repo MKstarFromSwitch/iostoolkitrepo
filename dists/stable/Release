@@ -1,17 +1,28 @@
-Date: Sat, 14 Feb 2026 12:44:53 +0000
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 14 Feb 2026 12:51:35 +0000
+Description: APT repo for my tools
+Label: iOS Toolkit Repo
+Origin: MKstar
+Suite: stable
 MD5Sum:
- 793c789d840f5297389a4b7594532740               38 Release
+ 9d6fbd1e80dcc60f6e7534c8a05ab15f              181 Release
+ 68b329da9893e34099c7d8ad5cb9c940                1 main/Translation-en
  1f9e78f624d9c214f5b002eb784b3ce5              361 main/binary-amd64/Packages
- 9b4d38f2f183477da17db39b0e03a7b9              290 main/binary-amd64/Packages.gz
+ f1c236045c4635ea9dce7c49ff1d3339              290 main/binary-amd64/Packages.gz
 SHA1:
- 36ff401410280b7eb4a668d5ae54045af9754a1b               38 Release
+ d52a00593477ddce579f75e7f293a49630efc87e              181 Release
+ adc83b19e793491b1c6ea0fd8b46cd9f32e592fc                1 main/Translation-en
  ca9c442ae545d4cec9e88ea5782452114702d78f              361 main/binary-amd64/Packages
- 7777e8720e3a0932130411cdb6466b8fb325b62e              290 main/binary-amd64/Packages.gz
+ 3b070b3004a1a6f489cf48389cade41f25beb027              290 main/binary-amd64/Packages.gz
 SHA256:
- 27e0d9ff7599ac0265ee9c0febe75254862fa987626ae765b1aa62fd2cb27649               38 Release
+ 7e657a1ee2703873982d129bcf93a6ef06116c7672632c41ed6e6544f6848b1c              181 Release
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b                1 main/Translation-en
  8a56deb9445ef0fb0f2f3c82450e9b59b929609419932b82e616c5702f22c06b              361 main/binary-amd64/Packages
- a89396d2ee95d1b8294b3f33d14c60350dea7d4a9e38b624e4520c9bba0892d9              290 main/binary-amd64/Packages.gz
+ 59e2ea05bb73cd73c30078763764ab9ee6b1d2817afe492f189dd50f3d2b9bb3              290 main/binary-amd64/Packages.gz
 SHA512:
- 43ab8399090466e93e24e09808c89ea9af988ac551100331f11938b93faf9337d267652c547ff775ae72c99ad7e34c996264e4e6618af58aaaca7ef6d9fe2a28               38 Release
+ d8696a786d171792773a65787e147eea422ddec1e4436f9ef62f312f20da7d3e4b72c615243412b6ac07ea65651a81dd059950cf979c41e5a99b9097b7e5052e              181 Release
+ be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09                1 main/Translation-en
  c744843013ef5b7abfb9c751c5c0c382d1cd1988f76916813d4085853792d1b701f9e34ef2f43a508df09e37f0c39b2696bd3251c2494e09e5b3e798c4dc9b9a              361 main/binary-amd64/Packages
- 3a1bea7b5e3df960216f406175de229c24b10ae009ad8be8e8a89b2853d90da061a1f0a77b13d9d1fbe01146c5793de3da47feb871d5ca2198491bc0ab40275a              290 main/binary-amd64/Packages.gz
+ 5877cb0054a7b40c66aa2f46db33a0d7665e48363f2a4206b50bc0a3f17625b8e4e48d0f8fd3190f0c536dc1d38357c79510b93671965ee93cac5e855ffe02f0              290 main/binary-amd64/Packages.gz
