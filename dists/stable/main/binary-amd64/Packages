@@ -1,0 +1,13 @@
+Package: partialzipbrowser
+Version: 1.0
+Architecture: all
+Maintainer: tihmstar, MKstar
+Filename: ./partialzipbrowser.deb
+Size: 186902
+MD5sum: 07a1c32ae890169828f7fd6bb36b345c
+SHA1: 7b1d20fe1c95885c5784f84e0457a65a73570e7b
+SHA256: 4fa856f10ee9f0539d75e3a3a945bbabc57ab9abc2b4f4da42e50f5ce46af862
+Section: utils
+Priority: optional
+Description: partialZipBrowser
+
