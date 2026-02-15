@@ -1,3 +1,16 @@
+Package: img3tool
+Version: 1.0
+Architecture: all
+Maintainer: tihmstar, MKstar
+Filename: pool/main/img3tool_1.0_all.deb
+Size: 344050
+MD5sum: 32d99be4e5c71719ae34b350a40de9f2
+SHA1: 5bb62ddcb5c78641b19f8e116a3cd88f97a13048
+SHA256: ea24b53c02620cd44c09071b4c6fcb3c81cf3be4896e6ac293bc497223004b3e
+Section: utils
+Priority: optional
+Description: Tool for decrypting and extracting IMG3 files
+
 Package: partialzipbrowser
 Version: 1.0
 Architecture: all
