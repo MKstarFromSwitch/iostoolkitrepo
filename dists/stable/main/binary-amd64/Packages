@@ -11,6 +11,19 @@ Section: utils
 Priority: optional
 Description: Tool for decrypting and extracting IMG3 files
 
+Package: img4tool
+Version: 1.0
+Architecture: all
+Maintainer: tihmstar, MKstar
+Filename: pool/main/img4tool_1.0_all.deb
+Size: 513806
+MD5sum: 8f810c936c10356448f1270e446e65c2
+SHA1: 03f4d0cf280fb307be3b15a775a9af73aa7f8865
+SHA256: aab25084fe8232711f115db63fc98d34aa1f796380ad9815d3107655b5818a4c
+Section: utils
+Priority: optional
+Description: Tool for decrypting and extracting IMG4 files
+
 Package: partialzipbrowser
 Version: 1.0
 Architecture: all
