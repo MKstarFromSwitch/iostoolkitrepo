@@ -24,6 +24,19 @@ Section: utils
 Priority: optional
 Description: Tool for decrypting and extracting IMG4 files
 
+Package: palera1n
+Version: 1.0
+Architecture: all
+Maintainer: palera1n team, MKstar
+Filename: pool/main/palera1n_2.2.1_all.deb
+Size: 4018716
+MD5sum: e867530d75cf827e0180343b8fb63657
+SHA1: 544d1dfd29990e1b1d9044f796061c69d32f9b05
+SHA256: 193c217410aaf41be3f8b58471d6a351ed50f0cab635e5ed44b3d3f07467c407
+Section: utils
+Priority: optional
+Description: palera1n
+
 Package: partialzipbrowser
 Version: 1.0
 Architecture: all
